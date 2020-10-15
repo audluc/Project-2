@@ -1,2 +1,3 @@
-.ds_store
 ._md
+.DS_Store
+node_module
