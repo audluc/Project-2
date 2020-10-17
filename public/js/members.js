@@ -164,11 +164,11 @@ function reg334() {
   // doc.text(23,643, phone  );
   // doc.text(23,644, email  );
 
-  var checkBox = new CheckBox();
-  checkBox.fieldName = "CheckBox1";
-  checkBox.Rect = [50, 20, 10, 10];
-  checkBox.value = 'Yes'
-  doc.addField(checkBox)
+  // var checkBox = new CheckBox();
+  // checkBox.fieldName = "CheckBox1";
+  // checkBox.Rect = [50, 20, 10, 10];
+  // checkBox.value = 'Yes'
+  // doc.addField(checkBox)
 
   doc.save('test.pdf');
 }
@@ -225,11 +225,6 @@ function irs1040() {
   // doc.text(23,643, phone  );
   // doc.text(23,644, email  );
 
-  var checkBox = new CheckBox();
-  checkBox.fieldName = "CheckBox1";
-  checkBox.Rect = [50, 20, 10, 10];
-  checkBox.value = 'Yes'
-  doc.addField(checkBox)
 
   doc.save('test.pdf');
 }
