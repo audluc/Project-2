@@ -1,14 +1,14 @@
 
-# Form Generator
+# JIAS's Form Generator
 
-###### We are aiming to create a input application, and render that data onto forms. Like the 1040, and attempt to "auto populate" the data.
+###### We created an online form filling applicaiton. The idea is that you can input data out, and that data will render in the correct place accross any pdf form. In this example, we have a 1040, and a DMV form.
 
-## Team 8
+## JIAS
 
 # User Story
 ###### As a employee I need an application that assists with filling forms out
 ###### I need to be able to add data
-###### so that I can render it in spacific places on any form
+###### so that I can render it in spacific places on any form pdf form.
 
 ### Profile: https://github.com/kaurshalpreet
 
@@ -24,7 +24,7 @@
     Can only be used for non commercial purposes
 
 1. Testing Methods: 
-    We going to test this manually.
+    Tested manually.
 
 1. Contributors: 
     Ian N Astesana, Shalpreet Kaur, Audra Dagenais, Javier Alba
