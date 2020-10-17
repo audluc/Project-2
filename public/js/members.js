@@ -100,7 +100,7 @@ $("#submit-btn").click(function () {
   console.log(formtype)
   if (formtype == "DMV") {
     // $("#dmv-form").show()
-    $("#irs-form").show()
+    $("#dmv-form").show()
 
 
 
