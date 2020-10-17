@@ -1,6 +1,5 @@
 $(document).ready(function () {
-  $("#irs-form").hide()
-  $("#dmv-form").hide()
+  $("#client-data").hide()
   $.get("/api/member").then(function (data) {
     console.log(data)
     let dropDownData = $("#client")
@@ -17,8 +16,9 @@ $(document).ready(function () {
     let clientName = $(".client-name").val()
     $.post("/api/member", { name: clientName }).then(function (data) {
       $.get("/api/member").then(function (data) {
+        console.log("here I am")
         console.log(data)
-        let dropDownData = $("#client")
+        let dropDownData = $("#client").empty()   
         $.each(data.data, function () {
           dropDownData.append($("<option />").val(this.id).text(this.name));
         });
@@ -90,27 +90,26 @@ $(document).ready(function () {
       $("#foreignPostalCode").val(data.data.foreign_postal_code);
       $("#phone").val(data.data.phone_number);
       $("#email").val(data.data.email);
-
     });
   })
 });
+
 
 $("#submit-btn").click(function () {
   var formtype = $("#country option:selected").val()
   console.log(formtype)
   if (formtype == "DMV") {
-    // $("#dmv-form").show()
-    $("#dmv-form").show()
+    $("#client-data").hide()
+    $("#client-data").show()
 
 
 
   } else if (formtype == "f1040") {
-    $("#irs-form").show()
-    // $("#dmv-form").hide()
+    $("#client-data").hide()
+    $("#client-data").show()
 
   }
 });
-
 
 
 function reg334() {
@@ -173,7 +172,6 @@ function reg334() {
 
   doc.save('test.pdf');
 }
-
 
 function irs1040() {
   var doc = new jsPDF("p", "pt", "letter");
