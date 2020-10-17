@@ -29,9 +29,6 @@
 1. Contributors: 
     Ian N Astesana, Shalpreet Kaur, Audra Dagenais, Javier Alba
 
-###### If you have any questions reach out to me by email. iastesana@gmail
-    
-##### undedecided API
-##### Tasks will be decided at time of decision.
+###### If you have any questions reach out to me by email. iastesana@gmail.com
 
 ![Alt text](./wireframe.png "Homepage")
