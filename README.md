@@ -1,7 +1,7 @@
 
 # JIAS's Form Generator
 
-###### We created an online form filling applicaiton. The idea is that you can input data out, and that data will render in the correct place accross any pdf form. In this example, we have a 1040, and a DMV form.
+###### We created an online form filling applicaiton. The idea is that you can input data, and that data will render in the correct place on any pdf form. In this example, we have a 1040, and a DMV form.
 
 ## JIAS
 
