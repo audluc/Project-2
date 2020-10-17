@@ -54,7 +54,7 @@ $(document).ready(function () {
     console.log(formtype)
     if (formtype == "DMV") {
 
-      reg334();
+      vreg334();
 
     } else if (formtype == "f1040") {
 
