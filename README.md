@@ -10,7 +10,7 @@
 ###### I need to be able to add data
 ###### so that I can render it in spacific places on any form pdf form.
 
-### Profile: https://github.com/greezon
+### Profile: https://github.com/audluc
 
 1. License:
    MIT
@@ -29,6 +29,6 @@
 1. Contributors: 
     Ian N Astesana, Shalpreet Kaur, Audra Dagenais, Javier Alba
 
-###### If you have any questions reach out to me by email. iastesana@gmail.com
+###### If you have any questions reach out to me by email. audluc44@gmail.com
 
 ![Alt text](./wireframe.png "Homepage")
