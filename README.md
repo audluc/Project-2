@@ -11,7 +11,7 @@ Created with Sequelize, Node, Express and Handlebars. Handlebars is used to gene
 
 [The Link to My Github Repository](https://github.com/audluc/Project-2)
 
-![Repository Screenshot](C:\Users\audlu\Desktop\Project-2\repo-screenshot)
+![Repository Screenshot](C:\Users\audlu\Desktop\github-repos\Project-2\img\repo-screenshot)
 
 ---
 
@@ -46,7 +46,7 @@ Once the app is launched the user will have to either sign up for an account or 
 
 
 A Screenshot of the app is shown below.
-![Sample Giphy](github-repos\Project-2\form-screenshot)
+![Sample Giphy](C:\Users\audlu\Desktop\github-repos\Project-2\img\form-screenshot)
 
 ---
 
