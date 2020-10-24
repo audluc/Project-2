@@ -11,8 +11,7 @@ Created with Sequelize, Node, Express and Handlebars. Handlebars is used to gene
 
 [The Link to My Github Repository](https://github.com/audluc/Project-2)
 
-![Repository Screenshot](C:\Users\audlu\Desktop\github-repos\Project-2\img\repo-screenshot)
-
+![Repository Screenshot](screenshot.png)
 ---
 
 ## Table of Contents
