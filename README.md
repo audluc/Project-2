@@ -87,7 +87,7 @@ Github: kaurshalpreet
 
 #### You can reach me via my [Github](https://github.com/audluc) account.
 
-#### Email me with any additional questions at: audluc44@gmail.com# JIAS's Form Generator
+#### Email me with any additional questions at: audluc44@gmail.com
 
-###### We created an online form filling applicaiton. The idea is that you can input data, and that data will render in the correct place on any pdf form. In this example, we have a 1040, and a DMV form.
+
 
